@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huy</h1>
-<h3 align="center">Android Developer | Backend | IoT Developer</h3>
+<h3 align="center">Android Developer | Backend Developer | IoT Developer</h3>
 <h3 align="center">I'm a Software Engineering student currently studying at FPT University</h3>
 
 ---
